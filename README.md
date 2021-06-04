@@ -2,6 +2,8 @@
 
 ## GitHub Action Documentation
 
+Introduction to GitHub Actions: https://docs.github.com/en/actions/learn-github-actions/introduction-to-github-actions
+
 Hosted Runners: https://docs.github.com/en/actions/using-github-hosted-runners/about-github-hosted-runners
 
 macOS Runner: https://github.com/actions/virtual-environments/blob/main/images/macos/macos-11-Readme.md
